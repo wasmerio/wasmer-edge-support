@@ -1,6 +1,6 @@
 # Support for Wasmer Edge
 
-This repository provides support for [Wasmer Edge](https://wasmerio/products/edge), the globally distributed cloud built by Wasmer.
+This repository provides support for [Wasmer Edge](https://wasmer.io/products/edge), the globally distributed cloud built by Wasmer.
 
 ## Getting Support
 
@@ -12,7 +12,7 @@ This repository provides support for [Wasmer Edge](https://wasmerio/products/edg
 
 * **Private support**:<br>
 To get private support for topics that are not suitable for a public issue, you can [join the Wasmer Discord](https://discord.gg/qBTfsNP7N8). <br/>
-**Note:** this is a temporary support channel, only available during the private testing phase of Wasmer Edge.
+**Note:** This is a temporary support channel, only available during the private testing phase of Wasmer Edge.
 A more suitable venue for private support will be provided in the future.
 
 * **Community chat**:<br>
